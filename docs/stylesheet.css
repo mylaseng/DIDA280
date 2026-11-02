@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(75, 82, 62);
+}
+
+.opaqueContainer {
+background-color: rgb(107, 118, 88);
+   margin: 50px;
+   text-align: center;
+   padding: 100px;
+   box-shadow: 5px 5px 5px rgb(49, 54, 41);
+   border-radius: 5px;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: lighter;
+}
