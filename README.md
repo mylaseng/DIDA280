@@ -1,2 +1,2 @@
 # Access Public Page
-[link to page] (https://mylaseng.github.io/DIDA280/) 
+[link to page](https://mylaseng.github.io/DIDA280/) 
