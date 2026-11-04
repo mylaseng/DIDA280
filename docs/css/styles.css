@@ -16,13 +16,15 @@
 	font-weight: normal;
 	src: url("../font/GOUDOS.TTF");
 }
+.text {
+	text-align: center;
+}
 .Base {
 font-family:Arial, sans-serif;
 font-weight:normal;
 font-style:normal;
 font-size:1.0em;
 hyphens:none;
-text-align: center;
 }
 
 .poemTitle {
@@ -52,7 +54,6 @@ font-family:"Goudy Old Style", serif;
 font-size:1.5em;
 line-height:1em;
 }
-
 .p2 {
 margin-top:2em;
 }
