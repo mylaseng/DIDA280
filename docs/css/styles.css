@@ -1,0 +1,67 @@
+@font-face {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/arial.ttf");
+}
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: bold;
+	src: url("../font/GOUDOSB.TTF");
+}
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/GOUDOS.TTF");
+}
+.Base {
+font-family:Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+hyphens:none;
+text-align: center;
+}
+
+.poemTitle {
+font-family:"Goudy Old Style", serif;
+font-weight:bold;
+font-size:2.5em;
+line-height:2em;
+margin-left:0;
+text-indent:0;
+}
+
+.poemAuthor {
+font-weight:normal;
+font-size:1.5em;
+}
+
+.Body {
+font-family:"Goudy Old Style", serif;
+font-size:1.5em;
+line-height:1em;
+margin-left:0;
+text-indent:0;
+}
+
+.stanza {
+font-family:"Goudy Old Style", serif;
+font-size:1.5em;
+line-height:1em;
+}
+
+.p2 {
+margin-top:2em;
+}
+
+.p1 {
+text-align:center;
+}
+
+.p3 {
+margin-top:1em;
+}
+
